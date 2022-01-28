@@ -1,0 +1,1 @@
+Este projeto tem como objetivo fazer operções simples com planilhas.
